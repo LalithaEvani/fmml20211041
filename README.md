@@ -1,2 +1,2 @@
 # fmml20211041
-Foundations in Modern Machine Learning 
+Foundations of Modern Machine Learning 
