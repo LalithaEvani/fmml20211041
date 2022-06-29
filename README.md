@@ -4,6 +4,7 @@
 1. MODULE 1 LAB 1
 2. MODULE 1 LAB 2 
 3. MODULE 2 LAB 1 
+4. MODULE 2 LAB 2 
 
 ## MODULE 1 LAB 1 :
 ### Covers basics of python and some libraries such as Numpy, Matplotlib and Nltk.
@@ -68,3 +69,12 @@
 * Z-score clipping 
 * Log normalization
 * clipping  
+
+## MODULE 2 LAB 2 
+### Retrieval, Performance Evaluation and Metrics 
+
+* Model Selection 
+* Splitting of Dataset 
+* Experiment with splits 
+* Multiple splits (cross validation) 
+* KNN using different train-test split
