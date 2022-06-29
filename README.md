@@ -1,12 +1,78 @@
 # fmml20211041
 ### Foundations of Modern Machine Learning
-## FILES IN ORDER 
-1. MODULE 1 LAB 1
-2. MODULE 1 LAB 2 
-3. MODULE 2 LAB 1 
-4. MODULE 2 LAB 2 
+# SYLLABUS
+### LECTURE 1: Introduction to Machine Learning 
+1. Video 
+### LECTURE 2: Machine Learning Components – Data, Model, Evaluation 
+1. Video 
+2. Lab 1
+3. Lab 2 
+### LECTURE 3: Revisiting Nearest Neighbor Classification
+1. Video 
+2. Lab 1
+3. Lab 2 
+4. Project 
+### LECTURE 4: Retrieval, Performance Evaluation and Metrics  
+1. Video
+### LECTURE 5: Decision Trees
+1. Video 
+2. Lab
+3. Project 
+### LECTURE 6: Linear Classifier 
+1. Video 
+2. Lab
+3. Project
+### LECTURE 7: SVM 
+1. Video 
+2. Lab
+3. Project- Byte Panache 
+### LECTURE 8: Representing Textual Data 
+1. Video 
+2. Lab
+3. Project
+### LECTURE 9: Aadhar: Sequences Matching 
+1. Video 
+### LECTURE 10: Perceptron and gradient descent 
+1. Video 
+2. Lab
+3. Project
+### LECTURE 11: Regression
+1. Video 
+2. Lab
+3. Project 
+### LECTURE 12: Clustering 
+1. Video 
+2. Lab
+3. Project 
+### LECTURE 13: Feature selection and PCA 
+1. Video 
+2. Lab
+3. Project 
+### LECTURE 14: Multilayer perceptron
+1. Video 
+2. Lab
+3. Project 
+### LECTURE 15: Neural networks 
+1. Video 
+2. Lab
+3. Project
+### LECTURE 16: CNN and Deep Learning 
+1. Video 
+2. Lab
+3. Project
+### LECTURE 17: CNN and Deep Learning – 2 
+1. Video 
+2. Lab
+3. Project 
+### LECTURE 18: Processing Time Series Data
+1. Video 
+2. Lab
+3. Project 
 
-## MODULE 1 LAB 1 :
+- - - - 
+# DESCRIPTION OF FILES 
+
+## LECTURE 2 LAB 1 :
 ### Covers basics of python and some libraries such as Numpy, Matplotlib and Nltk.
 
 * Strings, Lists, Tuples, Sets, Dictionaries, and indexing
@@ -17,7 +83,7 @@
 
 * Reading files: open(), read_csv(), perform some operations on dataframes and data visualization, upload image from google drive using imread. 
 
-## MODULE 1 LAB 2 :
+## LECTURE 2 LAB 2 :
 ### Introduce data and features 
 
 * Extracting features from data: generating some random data using numpy and performing data visualization 
@@ -29,7 +95,7 @@
 * Features from CSV file: california_housing_train.csv, scatter plot visualization of three features(columns in dataset), exercise: did the same with iris dataset.
 
 
-## MODULE 2 LAB 1
+## LECTURE 3 LAB 1
 
 ### SECTION 1 : distance metrics 
 * Euclidean distance
@@ -70,7 +136,7 @@
 * Log normalization
 * clipping  
 
-## MODULE 2 LAB 2 
+## LECTURE 3 LAB 2 
 ### Retrieval, Performance Evaluation and Metrics 
 
 * Model Selection 
