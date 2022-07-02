@@ -144,3 +144,8 @@
 * Experiment with splits 
 * Multiple splits (cross validation) 
 * KNN using different train-test split
+
+## LECTURE 3 PROJECT 
+### Binary classification of adults 
+Use dataset present on Kaggle provided by UCI to perform KNN and find income group 
+
