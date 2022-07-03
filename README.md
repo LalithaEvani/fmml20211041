@@ -179,3 +179,7 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 
 ## LECTURE 6 LAB
 ### Linear classifiers and perceptron algorithm
+
+## LECTURE 6 PROJECT 
+### Linear Classification
+* Implement perceptron linear classification involving perceptron update and classification methods 
