@@ -256,3 +256,12 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 ## LECTURE 10 LAB
 ### Introduction to Gradient Descent 
 
+## LECTURE 10 PROJECT 
+### Introduction to Gradient Descent
+* Notebook Imports and Packages 
+* Example 1 - A simple cost function
+* Example 2 - Multiple Minima vs Initial guess and advanced functions 
+* Example 3 - Divergence and Overflow 
+* Example 4 - Data Visualization with 3D charts
+
+
