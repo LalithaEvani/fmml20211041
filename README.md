@@ -361,3 +361,37 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 ### PART 2 mutation profile based methods 
 * pca
 * tsne
+
+## LECTURE 14 LAB
+### Multilayer perceptron
+* exercise
+### PART 1 
+* single layer perceptron
+* linearly seperable data 
+* introducing MLPs
+* Hidden layers
+* Stacking layers without non-linerities
+* introducing non-linearities
+* activation functions( ReLU, sigmoid, tanh)
+### PART 2 example mlp implementation by PyTorch
+* required imports 
+* plotting code 
+* define input data 
+* initialize weights 
+* define loss functions
+* define optimizer 
+* write training routine 
+* check output 
+* visualize decision boundary 
+* exercises 
+* references and useful resources 
+### PART 3 Multiclass classification using multi-layer perceptron with iris dataset 
+* data preperation
+* visualizing dataset 
+* observing dataset 
+* MLP for multiclass classification
+* train model 
+* plot traning progress 
+* experiment with neural network architecture 
+* data preperation
+
