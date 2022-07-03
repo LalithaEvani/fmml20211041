@@ -322,3 +322,35 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Movie bias
 * Movie weights 
 
+## LECTURE 13 LAB
+### PART 1 PCA
+* Standardization of data
+* computing covariance matrix
+* calculating eigenvectors and eigenvalues
+* computing principal components
+* reducing dimensions of data set
+* visualizing dataset in 2 and 3 dimensions 
+* references
+
+### PART 2 ISOMAP
+* Geodesic distances
+* compute distance matrix from data
+* keeping only k nearest neighbors for each point in distance matrix
+* weight graph edges by inter-point distances and then applying Dijkstra's all pairs shortest path algorithm 
+* taking top d eigen vectors of gram matrix 
+* plotting resultant reduced matrix
+* conclusion
+* references
+
+### PART 3 T-SNE
+* working of t-sne
+* using tsne to fit dataset with default values 
+* visualizing data in projected space 
+* tweaking some parameters to better understand their role
+* changing perplexity values
+* changing number of iterations
+* changing method to exact
+* exercise 
+* questions
+* references 
+
