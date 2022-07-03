@@ -354,3 +354,10 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * questions
 * references 
 
+## LECTURE 13 PROJECT 
+### PART 1 kmer based methods
+* pca
+* tsne
+### PART 2 mutation profile based methods 
+* pca
+* tsne
