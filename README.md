@@ -183,3 +183,10 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 ## LECTURE 6 PROJECT 
 ### Linear Classification
 * Implement perceptron linear classification involving perceptron update and classification methods 
+
+## LECTURE 7 LAB
+### Support Vector Machines
+* Intuitive inroduction to SVMs
+* The Kernel Trick
+* Kernels: An intuitive explanation
+
