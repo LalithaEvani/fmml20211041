@@ -149,3 +149,18 @@
 ### Binary classification of adults 
 Use dataset present on Kaggle provided by UCI to perform KNN and find income group 
 
+## LECTURE 5 LAB
+### SECTION 1: Classification with Decision Trees 
+* Loading IRIS dataset 
+* Example of DT on Iris dataset with performance evaluation, and tree structure 
+* Entropy and Information 
+
+### SECTION 2:  DT Learning 
+* Gini impurity
+* Finding pattern out of nowhere 
+* Experiment on titanic dataset 
+
+### SECTION 3: Random Forests
+* Understanding the motive and idea behid random forests 
+* Experiment on Titanic Dataset
+* Comparing speed of training of SVMs and Random Forests
