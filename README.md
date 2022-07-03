@@ -190,3 +190,41 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * The Kernel Trick
 * Kernels: An intuitive explanation
 
+## LECTURE 7 PROJECT 
+### SVM classifier
+* Data description
+* Import Libraries
+* Import dataset 
+* Exploratory data analysis
+* Explore missing values in variables 
+* Outliers in numerical variables 
+* Handle outliers with SVMs 
+* Check the distribution of variables 
+* Declare feature vector and target variable 
+* Split data into seperate training and test set 
+* Feature scaling 
+* Run SVM with default hyperparameters
+* Run SVM with rbf kernel and C=100.0
+* Run SVM with rbf kernel and C=1000.0
+* Run SVM with Linear Kernel c=1.0
+* Run SVM with Linear Kernel c=100.0
+* Run SVM with Linear Kernel c=1000.0
+* Compare train-set and test-set accuracy
+* Check for overfitting and underfitting 
+* Compare model accuracy with null accuracy
+* Run SVM with polynomial kernel and C=1.0
+* Run SVM with polynomial kernel and C=100.0
+* Run SVM with sigmoid kernel and C=1.0
+* Run SVM with sigmoid kernel and C=100.0
+* Confusion matrix
+* Classification metrices
+* Classification report
+* Classification accuracy
+* Classification error
+* Precision
+* Recall
+* True positive rate 
+* Fasle positive rate 
+* Specificity
+* Results and conclusion
+* References 
