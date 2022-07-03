@@ -308,3 +308,17 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Conclusion
 * Exercises 
 * Resources and References 
+
+## LECTURE 12 PROJECT 
+### Movie recommendation engine 
+### PART 1 Clustering based recommendation
+* Romance vs Science Fiction
+* Taking users into consideration
+* Large scale clustering 
+* Predictions and recommendation
+### PART 2 Using collaborative filtering 
+* Training model 
+* Interpretation
+* Movie bias
+* Movie weights 
+
