@@ -241,3 +241,14 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * KNN model
 * Word2Vec
 * References 
+
+## LECTURE 8 PROJECT 
+### Representing Textual Data
+* imports 
+* Data understanding 
+* Data pre-processing
+* Training the classifiers
+* Training Random Forest Classifier 
+* Training KNN Classifier 
+* Working with Test Data 
+* References 
