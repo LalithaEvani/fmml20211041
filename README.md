@@ -164,3 +164,15 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Understanding the motive and idea behid random forests 
 * Experiment on Titanic Dataset
 * Comparing speed of training of SVMs and Random Forests
+
+## LECTURE 5 PROJECT
+* Load data
+* Positive datapoints for grids that are finger points 
+* Negative datapoints for grids that are not finger points
+* Creating a method to cluster the points together and predict the number of fingers based on the number of clusters
+* Checking if the clustering is working with the datapoint
+* Checking the accuracy over all datapoints 
+* Examine on why two of the input images are clustered incorrectly
+* Classification using decision trees 
+* Classification using Random Forest
+* Classification using SVM
