@@ -275,3 +275,17 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Exercises 
 * References 
 * Further explorations 
+
+## LECTURE 11 PROJECT 
+### Covid data analysis with regression 
+### PART 1 Data Analysis
+* Load the data into pandas dataframe 
+* Create a new dataframe which counts the cumulative total number of cases, the cumulative total number of deaths, and also cumulative total number of recoveries for each date.
+* Plot the total number of cases per day over time and summarize findings
+* Create a new column in the dataframe called “closed cases”
+* Create a new column in dataframe called "active cases"
+* Create one plot showing trend of number of active cases and closed cases
+* Growth factor 
+### PART 2 Prediction using linear regression 
+* Take the earliest 85% of dates as train and the rest as test 
+* We can try different regression and regularizations we have seen before
