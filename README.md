@@ -176,3 +176,6 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Classification using decision trees 
 * Classification using Random Forest
 * Classification using SVM
+
+## LECTURE 6 LAB
+### Linear classifiers and perceptron algorithm
