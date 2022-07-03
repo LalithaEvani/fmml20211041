@@ -252,3 +252,7 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Training KNN Classifier 
 * Working with Test Data 
 * References 
+
+## LECTURE 10 LAB
+### Introduction to Gradient Descent 
+
