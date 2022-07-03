@@ -289,3 +289,22 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 ### PART 2 Prediction using linear regression 
 * Take the earliest 85% of dates as train and the rest as test 
 * We can try different regression and regularizations we have seen before
+
+## LECTURE 12 LAB
+### K-Means clustering and Hierarchical clustering 
+### PART 1 K-Means clustering
+* Implementation of KMeans and tesing on synthetic datasets
+* KMeans in scikit-learn
+* KMeans on Digits Dataset 
+* KMeans on Iris Dataset
+* Points to think about
+### PART 2 Hierarchical clustering 
+* What is hierarchical clustering 
+* Agglomerative Hierarchical clustering 
+* Dendograms
+* Agglomerative clustering on mall visitors database
+* Solving wholesale customer segmentation problem using hierarchical clustering 
+* Divisive Hierarchical clustering 
+* Conclusion
+* Exercises 
+* Resources and References 
