@@ -264,4 +264,14 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Example 3 - Divergence and Overflow 
 * Example 4 - Data Visualization with 3D charts
 
-
+## LECTURE 11 LAB
+### Linear Regression
+* Brute-force solution
+* Gradient Descent 
+* Creating data 
+* Cost function
+* Gradients
+* Applying linear regression to housing data 
+* Exercises 
+* References 
+* Further explorations 
