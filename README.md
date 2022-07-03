@@ -228,3 +228,16 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Specificity
 * Results and conclusion
 * References 
+
+## LECTURE 8 LAB
+### Counting for Representation
+* Embedding methods
+* one-hot encoding 
+* Feature vectors
+* Data cleaning and preprocessing step 
+* Bag of words
+* TF-IDF
+* Understanding the data: a reviews dataset
+* KNN model
+* Word2Vec
+* References 
