@@ -405,3 +405,18 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Forward and Backprop, illustrated diagramatically 
 * Implementation
 * plot of loss 
+
+## LECTURE 15 PROJECT 
+* Implementing the neural network 
+* Activation functions
+* Forward propagation
+* Loss/Error function
+* Backward propagation
+* Updating parameters
+* Initializing weights
+* Training a real life dataset 
+* preparing dataset 
+* putting it all together 
+* Training the model and cheking the results 
+* Observations
+
