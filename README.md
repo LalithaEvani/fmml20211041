@@ -395,3 +395,6 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * experiment with neural network architecture 
 * data preperation
 
+## LECTURE14_PROJECT 
+### Multi Layer Perceptron
+* Performing classification on Titanic Dataset 
