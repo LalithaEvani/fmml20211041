@@ -398,3 +398,10 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 ## LECTURE14_PROJECT 
 ### Multi Layer Perceptron
 * Performing classification on Titanic Dataset 
+
+## LECTURE 15 LAB 
+### Implementing forward propagation and back propagation
+* What we need for gradient descent 
+* Forward and Backprop, illustrated diagramatically 
+* Implementation
+* plot of loss 
