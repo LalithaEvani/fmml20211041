@@ -420,3 +420,11 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * Training the model and cheking the results 
 * Observations
 
+## LECTURE 16 LAB
+### Probabilistic ML Models 
+* Convolutional Operations
+* CNN and Using learnt representations
+* CNN Visualization
+* Autoencoders 
+* References and Additioanl Resources 
+
