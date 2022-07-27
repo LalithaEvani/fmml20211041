@@ -426,10 +426,10 @@ Use dataset present on Kaggle provided by UCI to perform KNN and find income gro
 * CNN and Using learnt representations
 * CNN Visualization
 * Autoencoders 
-* References and Additioanl Resources 
+* References and Additional Resources 
 
 ## LECTURE 17 LAB
 * Effect of padding, kernel size and stride
 * Pooling
 * Transfer learning and fine-tuning
-* References and Additioanl Resources 
+* References and Additional Resources 
